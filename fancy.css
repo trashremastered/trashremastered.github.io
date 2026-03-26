@@ -2,3 +2,32 @@ body{
   padding:0;
   margin:0:
 }
+
+header{
+  display: flex;
+  flex-dircetion: column;
+  align-items: center;
+  front-size: 3rem;
+  color:#333;
+}
+nav{
+  margin: -0.7rem;
+  width: 100vw;
+  display: flex;
+  flex-dirction: row;
+  justify-content: space-evnely;
+  background-color:#333;
+  height:2rem;
+  font-size: 1.5rem;
+}
+nav > a {
+  color:white;
+  text-dircetion: none;
+}
+nav > a:hover {
+  color:gold;
+}
+footer{
+  text-algin:center;
+}
+  
