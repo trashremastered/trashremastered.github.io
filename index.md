@@ -2,6 +2,7 @@
 title:index
 layout:default
 ---
+## this is my first page 
   The best part about making your own website is you can make up whatever you want and put it on there and *now* its on the **world wide web** so it has to be true. This is very useful when it comes to things like getting a job
 
 	Especially because not only will this website hype me up but also it will demonstrate that i have the **awesome** ability to make a website which i *guess* is as cool as all the stuff i could make up and put onto this website. 
