@@ -4,25 +4,25 @@ body{
 }
 
 header{
-  display: flex;
-  flex-dircetion: column;
-  align-items: center;
-  front-size: 3rem;
+  display:flex;
+  flex-dircetion:column;
+  align-items:center;
+  front-size:3rem;
   color:#333;
 }
 nav{
-  margin: -0.7rem;
-  width: 100vw;
-  display: flex;
-  flex-dirction: row;
-  justify-content: space-evnely;
+  margin:-0.7rem;
+  width:100vw;
+  display:flex;
+  flex-dirction:row;
+  justify-content:space-evnely;
   background-color:#333;
   height:2rem;
-  font-size: 1.5rem;
+  font-size:1.5rem;
 }
 nav > a {
   color:white;
-  text-dircetion: none;
+  text-dircetion:none;
 }
 nav > a:hover {
   color:gold;
